@@ -2,7 +2,7 @@ Hi there 👋 I am Chiranjaya Denuwan
 - 🔭 I’m currently working on Neominds Holdings Piliyandala,SriLanka
 - 📫 How to reach me: chiranjayadenuwan@gmail.com
 
-[![Chiranjaya 's github stats](https://github-readme-stats.vercel.app/api?username=chiradenuwan&show_icons=true&theme=radical)](https://github.com/chiradenuwan/ChiraDenuwan/github-readme-stats)
+[![Chiranjaya 's github stats](https://github-readme-stats.vercel.app/api?username=chiradenuwan&show_icons=true&theme=prussian&hide_border=true)](https://github.com/chiradenuwan/ChiraDenuwan/github-readme-stats)
 
 
 [![Chiranjaya 's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiradenuwan&amp)](https://github.com/chiradenuwan/ChiraDenuwan/github-readme-stats)
