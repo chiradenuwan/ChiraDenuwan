@@ -16,7 +16,8 @@
 - 📫 How to reach me **chiranjayadenuwan@gmail.com**
 
 - ⚡ Fun fact **Cricket**
-
+[![Chiranjaya 's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=chiradenuwan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/chiradenuwan/ChiraDenuwan/github-readme-stats)
+[![Chiranjaya 's github stats](https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=chiradenuwan&layout=compact&theme=radical)](https://github.com/chiradenuwan/ChiraDenuwan/github-readme-stats)	[![Chiranjaya 's github stats](https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=chiradenuwan&layout=compact&theme=radical&hide_border=true)](https://github.com/chiradenuwan/ChiraDenuwan/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiradenuwan&layout=compact&theme=radical&hide_border=true" alt="chiradenuwan" /></p>
 
 
