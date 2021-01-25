@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact **Cricket**
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiradenuwan&layout=compact&theme=radical&hide_border=true" alt="chiradenuwan" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,5 +33,4 @@
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=chiradenuwan&label=Profile%20views&color=0e75b6&style=flat" alt="chiradenuwan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiradenuwan&layout=compact&theme=radical&hide_border=true" alt="chiradenuwan" /></p>
 
