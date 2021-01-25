@@ -3,8 +3,6 @@ Hi there 👋 I am Chiranjaya Denuwan
 - 📫 How to reach me: chiranjayadenuwan@gmail.com
 
 [![Chiranjaya 's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=chiradenuwan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/chiradenuwan/ChiraDenuwan/github-readme-stats)
-
-
 [![Chiranjaya 's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chiradenuwan&layout=compact&theme=radical)](https://github.com/chiradenuwan/ChiraDenuwan/github-readme-stats)
 
 
