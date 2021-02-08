@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Angular,NodeJS,Laravel,Python,Java,Springboot**
 
-- 👨‍💻 All of my projects are available at [https://chiranjayadenuwanpersonalprofile.000webhostapp.com/](https://chiranjayadenuwanpersonalprofile.000webhostapp.com/)
-
 - 💬 Ask me about **Angular,Java**
 
 - 📫 How to reach me **chiranjayadenuwan@gmail.com**
