@@ -18,7 +18,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiradenuwan&layout=compact&theme=prussian&hide_border=true" alt="chiradenuwan" /></p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="chiranjaya-denuwan-0b4035181" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/chiranjaya-denuwan-0b4035181?trk=profile-badge">Chiranjaya Denuwan</a></div>
+
               
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,4 +33,3 @@
 <a href="https://instagram.com/chiraboy99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chiraboy99" height="30" width="40" /></a>
 </p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
