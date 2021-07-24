@@ -31,5 +31,6 @@
 <a href="https://linkedin.com/in/chiranjaya denuwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chiranjaya denuwan" height="30" width="40" /></a>
 <a href="https://fb.com/chiranjaya denuwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chiranjaya denuwan" height="30" width="40" /></a>
 <a href="https://instagram.com/chiraboy99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chiraboy99" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/11001003/chiranjaya-denuwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="chiranjayadenu2" height="30" width="40"  style="color: white" /></a>
 </p>
 
