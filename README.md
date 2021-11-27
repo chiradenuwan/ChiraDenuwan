@@ -5,17 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/chiranjayadenu2" target="blank"><img src="https://img.shields.io/twitter/follow/chiranjayadenu2?logo=twitter&style=for-the-badge" alt="chiranjayadenu2" /></a> </p>
 
-- 🔭 I’m currently working on **NeoMinds Holdings Piliyandala, SriLanka**
-
+- 🔭 I’m currently working on **Arpico Insuarance PLC, SriLanka**
+- 🔭 Former Software Engineer at **NeoMinds Holdings Piliyandala, SriLanka**
 - 🌱 I’m currently learning **Angular,NodeJS,Laravel,Python,Java,Springboot**
-
 - 💬 Ask me about **Angular,Java**
-
 - 📫 How to reach me **chiranjayadenuwan@gmail.com**
-
 - ⚡ Fun fact **Coding**
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiradenuwan&layout=compact&theme=prussian&hide_border=true" alt="chiradenuwan" /></p>
 
